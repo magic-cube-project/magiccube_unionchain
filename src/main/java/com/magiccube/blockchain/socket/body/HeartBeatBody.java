@@ -1,6 +1,5 @@
 package com.magiccube.blockchain.socket.body;
 
-/
 @Deprecated
 public class HeartBeatBody extends BaseBody {
     /**

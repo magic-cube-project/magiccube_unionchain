@@ -9,7 +9,6 @@ import org.tio.client.intf.ClientAioHandler;
 import org.tio.core.ChannelContext;
 import org.tio.core.intf.Packet;
 
-/
 public class BlockClientAioHandler extends AbstractAioHandler implements ClientAioHandler {
 
     @Override
